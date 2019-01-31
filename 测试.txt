@@ -1,0 +1,9 @@
+QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+测试2,http://223.99.186.134:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/index.m3u8
+你好世界,http://223.110.239.218:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8
+cctv1,http://ipad.cmvideo.cn:8080/wd_r2/cctv/cctv1hd/350/index.m3u8
+cctv2,http://39.105.248.192:3918/v1/peer_status
+cctv3,http://39.105.248.192:3918/v1/peer_status/index.m3u8
+擦擦擦擦擦,http://ipad.cmvideo.cn:8080/wd_r2/cctv/cctv1hd/350/index.m3u8.ts?msisdn=CEE6261DD74A8B2D2AB1B6F98FE0BEC6&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20190201015158&Channel_ID=1004_10010001005&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=111.37.179.244&SecurityKey=20190201015158&promotionId=&mvid=&mcid=&mpid=&mtv_session=592c0481c2ed2d969c24c12aaefbf4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=df90f10fd84b46c6ffb9aba8ff0b6b62&hls_type=16
+
+ccc,http://ipad.cmvideo.cn:8080/wd_r2/cctv/cctv1hd/350/20190201001520-01-236454.ts?msisdn=CEE6261DD74A8B2D2AB1B6F98FE0BEC6&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20190201015158&Channel_ID=1004_10010001005&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=111.37.179.244&SecurityKey=20190201015158&promotionId=&mvid=&mcid=&mpid=&mtv_session=592c0481c2ed2d969c24c12aaefbf4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=df90f10fd84b46c6ffb9aba8ff0b6b62&hls_type=16
