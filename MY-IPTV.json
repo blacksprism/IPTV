@@ -1,0 +1,15 @@
+{
+    "live": [
+        {
+            "itemid": "uid00",
+            "name": "CCTV-1",
+            "num": "0001",
+            "urllist": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND#http://183.230.81.93:80/000000001000/7780104586873900361/1.m3u8#http://223.99.186.135:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/5840800.m3u8?m3u8_level=2&IASHttpSessionId=SLB24081201902081624591666136&ztecid=CHANNEL00000311&bandwidth=5840800&ispcode=3&timeformat=local&channel=CHANNEL00000311&srcurl=aHR0cDovLzIyMy45OS4yNTMuNzo4MDgxLzIvMDAvQ0hBTk5FTDAwMDAwMzExLzU4NDA4MDAvMS5tM3U4&ZTEUPSTREAM=1#http://117.169.72.135:8080/ysten-businessmobile/live/hdcctv01/1.m3u8#http://183.230.81.93:80/000000001000/7780104586873900361/1.m3u8#http://ivi.bupt.edu.cn:80/hls/cctv1hd.m3u8#http://223.110.239.218:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8?MAC=54%3AC5%3A7A%3AC0%3AB2%3ACE&OTTUserToken=99999999&accountinfo=nJkQ8hcGYsqLtIs6QXq1DnfJq47QcL6aRYja6oSzImPKONVeo4aCceV5Lp2z5F4u&IASHttpSessionId=SLB814820180913083127206329&UserName=15895270249#http://ivi.bupt.edu.cn:80/hls/cctv1.m3u
+    ],
+    "type": [
+        {
+            "id": "uid00",
+            "name": "电视直播"
+        }
+    ]
+}
