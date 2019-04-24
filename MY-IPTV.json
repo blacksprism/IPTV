@@ -365,60 +365,12 @@
             "name": "凤凰资讯高清",
             "num": "0061",
             "urllist": "http://111.13.42.13/PLTV/88888888/224/3221226142/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225549/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "闲鱼搜用户",
-            "num": "0062",
-            "urllist": "http://otttv.bj.chinamobile.com/88888888/16/20181214/271250898/271250898.ts/index.m3u8?fmt=ts2hls&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=t68nEchqQsNq1twXrPG5egVzm11OOyMEWPeJSE5sLIGmS%2FOGwzSWKSnjaMTp2rhWpNvdFDAfWcI245PqKc6%2BuxbS0lRG8%2BSYiRp1z0kCzl%2Fy%2BleTaasj%2F%2B3PB2gDA5QeMItseeCB%2FNd1rVln%2FaA1vQ%3D%3D%3A20181226211858%2C54C57AE7C478%2C112.226.115.149%2C20181226211858%2Cp_BJYSTENVOD00000000000022618335%2CCD2E1A31EF0A5C20992900E9FA30397A%2C%2C1%2C0%2C-1%2C793%2C1%2C2201300%2C207%2C2536731%2C1%2CEND"
-        },
-        {
-            "itemid": "uid00",
-            "name": "小恒科技0727",
-            "num": "0063",
-            "urllist": "http://otttv.bj.chinamobile.com/88888888/16/20181031/271203349/271203349.ts/index.m3u8?fmt=ts2hls&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=t68nEchqQsNq1twXrPG5egVzm11OOyMEWPeJSE5sLIGmS%2FOGwzSWKSnjaMTp2rhWpNvdFDAfWcI245PqKc6%2BuxbS0lRG8%2BSYiRp1z0kCzl9QrNSQKyYcrBoo3Nhkd65sL3QD70V9qiCykqEg3UUleA%3D%3D%3A20181226212011%2C54C57AE7C478%2C112.226.115.149%2C20181226212011%2Cp_BJYSTENVOD00000000000022207704%2CCD2E1A31EF0A5C20992900E9FA30397A%2C%2C1%2C0%2C-1%2C173%2C1%2C2201300%2C207%2C2484705%2C1%2CEND"
-        },
-        {
-            "itemid": "uid00",
-            "name": "确认收货后",
-            "num": "0064",
-            "urllist": "http://otttv.bj.chinamobile.com/88888888/16/20181221/271258768/271258768.ts/index.m3u8?fmt=ts2hls&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=t68nEchqQsNq1twXrPG5egVzm11OOyMEWPeJSE5sLIGmS%2FOGwzSWKSnjaMTp2rhWpNvdFDAfWcI245PqKc6%2BuxbS0lRG8%2BSYiRp1z0kCzl8%2Bhd8b3rBvZVJaPT3MGG6p2xQpIO5J9113cTPdQfE5MQ%3D%3D%3A20181226211635%2C54C57AE7C478%2C112.226.115.149%2C20181226211635%2Cp_BJYSTENVOD00000000000022676557%2CCD2E1A31EF0A5C20992900E9FA30397A%2C%2C1%2C0%2C-1%2C54%2C1%2C2201300%2C207%2C2542690%2C1%2CEND"
-        },
-        {
-            "itemid": "uid00",
-            "name": "联系客服",
-            "num": "0065",
-            "urllist": "http://111.13.111.242/otttv.bj.chinamobile.com/88888888/16/20181206/271240933/271240933.ts/index.m3u8?fmt=ts2hls&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=t68nEchqQsNq1twXrPG5egVzm11OOyMEWPeJSE5sLIGmS%2FOGwzSWKSnjaMTp2rhWpNvdFDAfWcI245PqKc6%2BuxbS0lRG8%2BSYiRp1z0kCzl9%2FR1xk5UQVmjSm6GoRNLAcxpGo2%2BlHMAtK554Rq3%2FMug%3D%3D%3A20181226211519%2C54C57AE7C478%2C112.226.115.149%2C20181226211519%2Cp_BJYSTENVOD00000000000022556736%2CCD2E1A31EF0A5C20992900E9FA30397A%2C%2C1%2C0%2C-1%2C533%2C1%2C2201300%2C207%2C2526239%2C1%2CEND"
-        },
-        {
-            "itemid": "uid00",
-            "name": "QQ1174149192",
-            "num": "0066",
-            "urllist": "http://cache.ott.bestvod.itv.cmvideo.cn:80/000000000000/4007550589/index.m3u8?channel-id=bstvod&Contentid=4007550589&authCode=08210410332183529120&stbId=003201FF0001061005B554C57AE818F2&usergroup=&userToken=10620BEB33666C34327C6C4807327C31&version=1.0&owaccmark=4007550589&owchid=bstvod&owsid=2459041545829620115&AuthInfo=zdbanZRoORzTp3lZBZjbviXXfu7eE5DCkvveArLMkioEzqbdDdMibZw5ovs7sPouGrbr%2FcRaP0gDXciHJCFDVDnzvN00QNwd7C2NHbCnCfY%3D"
-        },
-        {
-            "itemid": "uid00",
-            "name": "进售后群",
-            "num": "0067",
-            "urllist": "http://cache.ott.bestvod.itv.cmvideo.cn:80/000000000000/4007550575/index.m3u8?channel-id=bstvod&Contentid=4007550575&authCode=08210410332183529120&stbId=003201FF0001061005B554C57AE818F2&usergroup=&userToken=10620BEB33666C34327C6C4807327C31&version=1.0&owaccmark=4007550575&owchid=bstvod&owsid=2393451545829582938&AuthInfo=zdbanZRoORzTp3lZBZjbviXXfu7eE5DCkvveArLMkiqjZ0qCFb8Fkv4T7%2F5f71m6efHsPLvAgek7cvdDW6ThivX3MZxMLgsebdZA%2Fp5NZsM%3D"
-        },
-        {
-            "itemid": "uid00",
-            "name": "提供终身",
-            "num": "0068",
-            "urllist": "http://cache.ott.bestvod.itv.cmvideo.cn:80/000000000000/4007275722/index.m3u8?channel-id=bstvod&Contentid=4007275722&authCode=08210410332183529120&stbId=003201FF0001061005B554C57AE818F2&usergroup=&userToken=10620BEB33666C34327C6C4807327C31&version=1.0&owaccmark=4007275722&owchid=bstvod&owsid=3163411545829554779&AuthInfo=zdbanZRoORzTp3lZBZjbviXXfu7eE5DCkvveArLMkiod0puNaKsgHI82bzEb1Mw5%2B9JJ5dB1ia8PbiHq4gmlahCgMUP4mWVKJkQccrilwx0%3D"
-        },
-        {
-            "itemid": "uid00",
-            "name": "软件维护",
-            "num": "0069",
-            "urllist": "http://otttv.bj.chinamobile.com/88888888/16/20180929/271162545/271162545.ts/index.m3u8?fmt=ts2hls&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=t68nEchqQsNq1twXrPG5egVzm11OOyMEWPeJSE5sLIGmS%2FOGwzSWKSnjaMTp2rhWpNvdFDAfWcI245PqKc6%2BuxbS0lRG8%2BSYiRp1z0kCzl%2BUBjMjzuQvguSItz3R6JX1S50HrM4GzwB0z7Vbrmg4AA%3D%3D%3A20181226213802%2C54C57AE7C478%2C112.226.115.149%2C20181226213802%2C00010000000000000000000021936478%2CCD2E1A31EF0A5C20992900E9FA30397A%2C%2C1%2C0%2C-1%2C749%2C1%2C2201300%2C207%2C2441553%2C1%2CEND"
         }
     ],
     "type": [
         {
             "id": "uid00",
-            "name": "江苏移动"
+            "name": "移动直播"
         }
     ]
 }
